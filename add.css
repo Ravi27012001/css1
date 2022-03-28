@@ -1,0 +1,26 @@
+ .class1{
+     color: rgb(219, 22, 22);
+ }
+ h2{
+     color: rgb(235, 36, 36);
+ }
+ ol{
+     color: rgb(153, 25, 25);
+     font-size: 140%;
+ }
+ .class2{
+    text-decoration: line-through;
+ }
+ .class3{
+     background-color: rgb(246, 250, 43);
+ }
+ ul{color: rgb(153, 25, 25);
+    font-size: 140%;
+    font-style:unset;
+text-indent: 0px;
+text-align:left;
+letter-spacing:5px;
+ }
+ p{
+    color: rgb(153, 25, 25);
+ }
